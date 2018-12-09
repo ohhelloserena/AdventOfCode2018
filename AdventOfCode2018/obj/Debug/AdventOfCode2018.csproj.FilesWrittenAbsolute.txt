@@ -1,0 +1,5 @@
+/Users/serenachen/RiderProjects/AdventOfCode2018/AdventOfCode2018/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/Users/serenachen/RiderProjects/AdventOfCode2018/AdventOfCode2018/bin/Debug/AdventOfCode2018.exe.mdb
+/Users/serenachen/RiderProjects/AdventOfCode2018/AdventOfCode2018/bin/Debug/AdventOfCode2018.exe
+/Users/serenachen/RiderProjects/AdventOfCode2018/AdventOfCode2018/obj/Debug/AdventOfCode2018.exe
+/Users/serenachen/RiderProjects/AdventOfCode2018/AdventOfCode2018/obj/Debug/AdventOfCode2018.exe.mdb
