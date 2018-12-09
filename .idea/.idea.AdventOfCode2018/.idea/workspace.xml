@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8df4db3e-9b89-48a0-aaaf-aab6be060a30" name="Default Changelist" comment="" />
+    <list default="true" id="8df4db3e-9b89-48a0-aaaf-aab6be060a30" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/AdventOfCode2018/Day02.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2018/Day02.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode2018/bin/Debug/AdventOfCode2018.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2018/bin/Debug/AdventOfCode2018.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdventOfCode2018/bin/Debug/AdventOfCode2018.exe.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2018/bin/Debug/AdventOfCode2018.exe.mdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +22,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="3" />
+          <entry key="cs" value="4" />
           <entry key="day01input" value="1" />
           <entry key="day02input" value="1" />
           <entry key="targets" value="1" />
@@ -26,30 +30,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="3" />
+          <entry key="C#" value="4" />
           <entry key="MsBuild targets file" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="1123" />
+          <entry key="cs" value="2070" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="1123" />
+          <entry key="C#" value="2070" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AdventOfCode2018/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+            <state relative-caret-position="272">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <marker date="1544338971656" expanded="true" signature="41:252" ph="{...}" />
                 <marker date="1544338971656" expanded="true" signature="70:250" ph="{...}" />
@@ -86,24 +90,38 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AdventOfCode2018/Day02.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+            <state relative-caret-position="198">
+              <caret line="61" column="16" lean-forward="true" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
               <folding>
-                <marker date="1544338971652" expanded="true" signature="6:32" ph="..." />
-                <marker date="1544338971652" expanded="true" signature="60:1454" ph="{...}" />
-                <marker date="1544338971652" expanded="true" signature="85:1452" ph="{...}" />
-                <marker date="1544338971652" expanded="true" signature="261:327" ph="{...}" />
-                <marker date="1544338971652" expanded="true" signature="359:1381" ph="{...}" />
-                <marker date="1544338971652" expanded="true" signature="473:1291" ph="{...}" />
-                <marker date="1544338971652" expanded="true" signature="682:790" ph="{...}" />
-                <marker date="1544338971652" expanded="true" signature="841:1277" ph="{...}" />
-                <marker date="1544338971652" expanded="true" signature="924:1053" ph="{...}" />
-                <marker date="1544338971652" expanded="true" signature="1126:1259" ph="{...}" />
-                <marker date="1544338971652" expanded="true" signature="1413:1446" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="6:97" ph="..." />
+                <marker date="1544342351059" expanded="true" signature="125:2560" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="150:2558" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="326:392" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="424:1446" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="538:1356" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="747:855" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="906:1342" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="989:1118" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="1191:1324" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="1478:2552" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="1731:2476" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="1843:2462" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="1987:2332" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="2125:2310" ph="{...}" />
+                <marker date="1544342351059" expanded="true" signature="2369:2444" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FD38F38C-1579-4579-AA0B-F7A62CEEB4DC/5e/000cd9e5/String.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="1808" column="6" selection-start-line="1808" selection-start-column="6" selection-end-line="1808" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -120,7 +138,11 @@
       <find>toolsversion</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FD38F38C-1579-4579-AA0B-F7A62CEEB4DC/5e/000cd9e5/String.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AdventOfCode2018/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AdventOfCode2018/Day01.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AdventOfCode2018/Day02.cs" root0="FORCE_HIGHLIGHTING" />
@@ -129,8 +151,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/AdventOfCode2018/Day01.cs" />
-        <option value="$PROJECT_DIR$/AdventOfCode2018/Day02.cs" />
         <option value="$PROJECT_DIR$/AdventOfCode2018/Program.cs" />
+        <option value="$PROJECT_DIR$/AdventOfCode2018/Day02.cs" />
       </list>
     </option>
   </component>
@@ -146,6 +168,7 @@
     <option name="width" value="1260" />
     <option name="height" value="689" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -219,12 +242,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544335980215</updated>
-      <workItem from="1544335983575" duration="2265000" />
+      <workItem from="1544335983575" duration="5085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2265000" />
+    <option name="totallyTimeSpent" value="5085000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -253,7 +276,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32908705" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3121019" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -316,34 +339,46 @@
     <entry file="file://$PROJECT_DIR$/AdventOfCode2018/day02input">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/AdventOfCode2018/Day02.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="51" column="12" lean-forward="true" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
-          <folding>
-            <marker date="1544338971652" expanded="true" signature="6:32" ph="..." />
-            <marker date="1544338971652" expanded="true" signature="60:1454" ph="{...}" />
-            <marker date="1544338971652" expanded="true" signature="85:1452" ph="{...}" />
-            <marker date="1544338971652" expanded="true" signature="261:327" ph="{...}" />
-            <marker date="1544338971652" expanded="true" signature="359:1381" ph="{...}" />
-            <marker date="1544338971652" expanded="true" signature="473:1291" ph="{...}" />
-            <marker date="1544338971652" expanded="true" signature="682:790" ph="{...}" />
-            <marker date="1544338971652" expanded="true" signature="841:1277" ph="{...}" />
-            <marker date="1544338971652" expanded="true" signature="924:1053" ph="{...}" />
-            <marker date="1544338971652" expanded="true" signature="1126:1259" ph="{...}" />
-            <marker date="1544338971652" expanded="true" signature="1413:1446" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AdventOfCode2018/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        <state relative-caret-position="272">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding>
             <marker date="1544338971656" expanded="true" signature="41:252" ph="{...}" />
             <marker date="1544338971656" expanded="true" signature="70:250" ph="{...}" />
             <marker date="1544338971656" expanded="true" signature="123:244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FD38F38C-1579-4579-AA0B-F7A62CEEB4DC/5e/000cd9e5/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="1808" column="6" selection-start-line="1808" selection-start-column="6" selection-end-line="1808" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AdventOfCode2018/Day02.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="61" column="16" lean-forward="true" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+          <folding>
+            <marker date="1544342351059" expanded="true" signature="6:97" ph="..." />
+            <marker date="1544342351059" expanded="true" signature="125:2560" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="150:2558" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="326:392" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="424:1446" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="538:1356" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="747:855" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="906:1342" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="989:1118" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="1191:1324" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="1478:2552" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="1731:2476" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="1843:2462" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="1987:2332" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="2125:2310" ph="{...}" />
+            <marker date="1544342351059" expanded="true" signature="2369:2444" ph="{...}" />
           </folding>
         </state>
       </provider>
