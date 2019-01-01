@@ -63,12 +63,7 @@ namespace AdventOfCode2018
                 
                 int currLen = PartOne(inputListCopy);
 
-                if (c == 'A')
-                {
-                    shortestPolymerLength = currLen;
-                }
-
-                if (currLen < shortestPolymerLength)
+                if (c == 'A' || currLen < shortestPolymerLength)
                 {
                     shortestPolymerLength = currLen;
                 }

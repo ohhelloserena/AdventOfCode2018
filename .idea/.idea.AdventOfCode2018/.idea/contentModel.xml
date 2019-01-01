@@ -17,6 +17,8 @@
         <e p="day04input" t="Include" />
         <e p="Day05.cs" t="Include" />
         <e p="day05input" t="Include" />
+        <e p="Day06.cs" t="Include" />
+        <e p="day06input" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
