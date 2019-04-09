@@ -4,7 +4,6 @@
     <list default="true" id="8df4db3e-9b89-48a0-aaaf-aab6be060a30" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2018/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AdventOfCode2018/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AdventOfCode2018/Day06.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2018/Day06.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdventOfCode2018/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2018/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AdventOfCode2018/bin/Debug/AdventOfCode2018.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2018/bin/Debug/AdventOfCode2018.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AdventOfCode2018/bin/Debug/AdventOfCode2018.exe.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2018/bin/Debug/AdventOfCode2018.exe.mdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AdventOfCode2018/obj/Debug/AdventOfCode2018.exe" beforeDir="false" afterPath="$PROJECT_DIR$/AdventOfCode2018/obj/Debug/AdventOfCode2018.exe" afterDir="false" />
@@ -48,13 +47,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="19126" />
+          <entry key="cs" value="20489" />
           <entry key="day04input" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="19126" />
+          <entry key="C#" value="20489" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -153,32 +152,38 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AdventOfCode2018/Day06.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="146">
+              <caret line="112" column="13" lean-forward="true" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
               <folding>
-                <marker date="1550939663565" expanded="true" signature="6:66" ph="..." />
-                <marker date="1550939663565" expanded="true" signature="94:4655" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="119:4653" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="341:544" ph="/* private string[] input = new string[] ... */" />
-                <marker date="1550939663565" expanded="true" signature="579:622" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="654:3684" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="981:1828" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="1055:1814" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="1276:1495" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="2034:2175" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="2232:2373" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="2584:3126" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="2658:3112" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="2805:2971" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="2996:3094" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="3204:3674" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="3395:3550" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="3571:3660" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="3770:4287" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="3873:4221" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="4005:4084" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="4128:4207" ph="{...}" />
-                <marker date="1550939663565" expanded="true" signature="4403:4647" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="6:95" ph="..." />
+                <marker date="1551332501924" expanded="true" signature="123:5982" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="148:5980" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="163:395" ph="/* Day 6 problem: https://adventofcode.com/2018/day/6 ... */" />
+                <marker date="1551332501924" expanded="true" signature="451:581" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="609:677" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="709:3630" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="1040:1867" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="1114:1853" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="1315:1534" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="2049:2191" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="2248:2390" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="2578:3100" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="2652:3086" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="2779:2945" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="2970:3068" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="3166:3620" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="3341:3496" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="3517:3606" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="3662:5039" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="4018:4953" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="4238:4313" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="4358:4844" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="4416:4805" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="5125:5614" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="5228:5560" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="5344:5423" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="5467:5546" ph="{...}" />
+                <marker date="1551332501924" expanded="true" signature="5730:5974" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -243,11 +248,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-2560" />
-    <option name="y" value="-360" />
-    <option name="width" value="2560" />
-    <option name="height" value="1369" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="829" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -325,12 +329,12 @@
       <updated>1544335980215</updated>
       <workItem from="1544335983575" duration="42800000" />
       <workItem from="1546281428048" duration="14752000" />
-      <workItem from="1550811394065" duration="11283000" />
+      <workItem from="1550811394065" duration="15993000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68835000" />
+    <option name="totallyTimeSpent" value="73545000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,8 +354,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49761716" visible="true" weight="0.32854864" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.93010324" weight="0.32376397" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49642575" weight="0.1570973" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.9281176" visible="true" weight="0.32376397" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32872504" />
@@ -361,8 +365,8 @@
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.32872504" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32872504" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5023828" side_tool="true" visible="true" weight="0.32854864" />
-      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.49563146" weight="0.33652312" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.07188245" side_tool="true" visible="true" weight="0.32376397" />
+      <window_info anchor="bottom" id="Build" order="14" sideWeight="0.49245432" weight="0.33652312" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -439,29 +443,16 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/AdventOfCode2018/Day06.cs</url>
-          <line>102</line>
-          <properties documentPath="$PROJECT_DIR$/AdventOfCode2018/Day06.cs" initialLine="110">
+          <line>133</line>
+          <properties documentPath="$PROJECT_DIR$/AdventOfCode2018/Day06.cs" initialLine="126">
             <startOffsets>
-              <option value="3470" />
+              <option value="4277" />
             </startOffsets>
             <endOffsets>
-              <option value="3532" />
+              <option value="4295" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/AdventOfCode2018/Day06.cs</url>
-          <line>95</line>
-          <properties documentPath="$PROJECT_DIR$/AdventOfCode2018/Day06.cs" initialLine="96">
-            <startOffsets>
-              <option value="3188" />
-            </startOffsets>
-            <endOffsets>
-              <option value="3204" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="90" />
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -742,32 +733,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AdventOfCode2018/Day06.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="146">
+          <caret line="112" column="13" lean-forward="true" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
           <folding>
-            <marker date="1550939663565" expanded="true" signature="6:66" ph="..." />
-            <marker date="1550939663565" expanded="true" signature="94:4655" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="119:4653" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="341:544" ph="/* private string[] input = new string[] ... */" />
-            <marker date="1550939663565" expanded="true" signature="579:622" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="654:3684" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="981:1828" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="1055:1814" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="1276:1495" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="2034:2175" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="2232:2373" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="2584:3126" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="2658:3112" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="2805:2971" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="2996:3094" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="3204:3674" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="3395:3550" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="3571:3660" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="3770:4287" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="3873:4221" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="4005:4084" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="4128:4207" ph="{...}" />
-            <marker date="1550939663565" expanded="true" signature="4403:4647" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="6:95" ph="..." />
+            <marker date="1551332501924" expanded="true" signature="123:5982" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="148:5980" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="163:395" ph="/* Day 6 problem: https://adventofcode.com/2018/day/6 ... */" />
+            <marker date="1551332501924" expanded="true" signature="451:581" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="609:677" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="709:3630" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="1040:1867" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="1114:1853" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="1315:1534" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="2049:2191" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="2248:2390" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="2578:3100" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="2652:3086" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="2779:2945" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="2970:3068" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="3166:3620" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="3341:3496" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="3517:3606" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="3662:5039" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="4018:4953" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="4238:4313" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="4358:4844" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="4416:4805" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="5125:5614" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="5228:5560" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="5344:5423" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="5467:5546" ph="{...}" />
+            <marker date="1551332501924" expanded="true" signature="5730:5974" ph="{...}" />
           </folding>
         </state>
       </provider>
